@@ -1,0 +1,138 @@
+body{
+	margin: 0;
+	text-align: center;
+	color: #40514E;
+}
+
+h2{
+	font-size: 3rem;
+	color: #009688;
+}
+
+h3{
+	color: #00796B;
+	font-size: 2rem;
+}
+
+p{
+	font-size: 1.2rem;
+}
+
+a{
+	margin: 30px;
+	font-size: 1.4rem;
+	color: #009688;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #FFFFFF;
+}
+
+hr{
+	border: dotted #9E9E9E 6px;
+	border-bottom: none;
+	width: 4%;
+	margin:50px auto 50px auto;
+}
+
+button{
+	background-color: #B2DFDB;
+	border: none;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1.2rem;
+	border-radius: 12px;
+	margin-top: 50px auto 50px auto;
+}
+
+button:hover{
+	border: solid #00796B 1px;
+   	background: #00796B;
+   	-webkit-border-radius: 20px;
+   	-moz-border-radius: 20px;
+   	border-radius: 20px;
+   	text-decoration: none;
+}
+
+
+.top-container{
+	height: 59.5rem;
+	background-color: #B2DFDB;
+
+}
+
+
+.title{
+	margin-top: 0;
+	position: relative;
+	padding-top: 15%;
+	font-size: 90px;
+	color: #00796B;
+}
+
+.nube{
+	width: 10%;
+	position: absolute;
+}
+
+.nube-top{
+	left: 25%;
+}
+
+.nube-bottom{
+	right: 25%;
+}
+
+.foto-perfil{
+	width: 10%;
+	margin-top: 60px;
+}
+
+.text-description{
+	width: 35%;
+	line-height: 2;
+	margin: auto;
+	text-align: center;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.icon-1{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.icon-2{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+
+.contact-me-container{
+	width: 50%;
+	margin: auto;
+	line-height: 2;
+}
+
+.bottom-container{
+	margin-top: 50px;
+	background-color: #B2DFDB;
+	padding-top: 50px;
+}
+
+.copyright{
+	margin: 50px auto 0 auto;
+	padding-bottom: 20px;
+	color: #FFFFFF;
+	font-size: 0.75rem;
+}
